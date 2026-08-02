@@ -1,0 +1,29 @@
+{
+	"id": "playable-shizuka",
+	"version": "1.0.0",
+	"title": {
+		"en_US": "Playable Shizuka",
+		"de_DE": "Playable Shizuka",
+		"fr_FR": "Playable Shizuka",
+		"zh_CN": "Playable Shizuka",
+		"zh_TW": "Playable Shizuka",
+		"ja_JP": "Playable Shizuka",
+		"ko_KR": "Playable Shizuka"
+	},
+	"description": {
+		"en_US": "Adds support for all combat arts to Shizuka",
+		"de_DE": "Adds support for all combat arts to Shizuka",
+		"fr_FR": "Adds support for all combat arts to Shizuka",
+		"zh_CN": "Adds support for all combat arts to Shizuka",
+		"zh_TW": "Adds support for all combat arts to Shizuka",
+		"ja_JP": "Adds support for all combat arts to Shizuka",
+		"ko_KR": "Adds support for all combat arts to Shizuka"
+	},
+	"icons": {
+		"24": "icon.png"
+	},
+	"repository": "https://github.com/XenonA7/playable-shizuka",
+	"tags": ["player character", "party member"],
+	"authors": ["XenonA7"],
+	"dependencies": {}
+}
