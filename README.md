@@ -5,6 +5,7 @@
 - Full set of ported Lea combat arts to Shizuka's player file, adjusted for Shizuka animations.
 - New edited versions of Shizuka's melee sprites to include chakrams and the missing 6th animation frames.
 - New sprites for special attack, hovering, block pushing, chest open, landing, levelUpJump.
+- Custom menu portrait and icons by Rioreur.
 
 ### What this mod does:
 - Adds proper combat and animation support when you swap player configs to Shizuka.
@@ -31,5 +32,10 @@ Shizuka as a party member will have **all** the level 1 combat arts available to
 ### Install Insructions:
 Install from the in-game mod browser.
 
-### Dependency Mods:
-None!
+### **Dependency Mods:**
+>**Note:** This list is just for reference. You don't need to manually install these! The mod manager will automatically handle that.
+1. **menu-ui-replacer:** https://github.com/CCDirectLink/cc-menu-ui-replacement
+
+### Mod Credits:
+- **XenonA7:** Mod author, gameplay sprites
+- **Rioreur:** Shizuka menu artwork
