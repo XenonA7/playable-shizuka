@@ -1,3 +1,7 @@
+## 1.1.1 (09/10/2026)
+- Now requires menu-ui-replacer 1.1.0 or higher
+- Implemented TinyHead menu sprite (for Multibakery)
+
 ## 1.1.0 (08/01/2026)
 - Added Shizuka menu artwork by Rioreur
 - Added Rioreur to author list

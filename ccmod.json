@@ -1,6 +1,6 @@
 {
 	"id": "playable-shizuka",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"title": {
 		"en_US": "Playable Shizuka",
 		"de_DE": "Playable Shizuka",
@@ -26,6 +26,6 @@
 	"tags": ["player character", "party member"],
 	"authors": ["XenonA7", "rioreur"],
 	"dependencies": {
-		"menu-ui-replacer": ">=1.0.5"
+		"menu-ui-replacer": ">=1.1.0"
 	}
 }
